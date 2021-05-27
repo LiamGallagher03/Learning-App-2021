@@ -5,4 +5,4 @@ There are a few non-polyatomic ions (such as water), that can be helpful for som
 It also involves a very simple quiz to test students.
 This was made for students taking Chemistry that must memorize some polyatomic ions.
 
-![Main Menu](pittPIC.png)
+![Main Menu](https://github.com/LiamGallagher03/Learning-App-2021/blob/main/piitPIC.PNG)
